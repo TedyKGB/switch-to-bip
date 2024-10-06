@@ -14,4 +14,4 @@ Click on the green **<span style="color: #00FF79;"><> CODE</span>** button to **
 
 1. Head to Chrome and go to *chrome://extensions/* for the URL
 2. Enable *Developer Mode* in the top right corner
-3. Click *Load Unpacked* and select the folder **Just-BIO-It** we downloaded.
+3. Click *Load Unpacked* and select the folder **switch-to-bip** we downloaded.
