@@ -1,5 +1,4 @@
-# Just-BIP-It
-
+# Switch to $BIP
 Having fun in the group chat with a joke tweet about Leo bull posting $BIP leads to ChatGPT putting a proof of concept together.
 
 ![Switch to $BIP GIF](https://github.com/TedyKGB/switch-to-bip/blob/main/bip-dog-extension.gif "Switch to $BIP")
@@ -14,4 +13,4 @@ Click on the green **<> CODE** button to Download ZIP and unpack where you want 
 
 1. Head to Chrome and go to chrome://extensions/ for the URL
 2. Enable *Developer Mode* in the top right corner
-3. Click *Load Unpacked* and select the folder **Just-BIO-It** we downloaded.
+3. Click *Load Unpacked* and select the folder **Switch to $BIP** we downloaded
