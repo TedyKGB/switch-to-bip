@@ -1,0 +1,21 @@
+{
+  "manifest_version": 3,
+  "name": "Switch to $BIP",
+  "version": "1.1",
+  "description": "A group chat joke extension turning $DOG into $BIP for all or just Leos posts.",
+  "permissions": [
+    "activeTab",
+    "scripting",
+    "storage"
+  ],
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": "icon.png"
+  },
+  "content_scripts": [
+    {
+      "matches": ["https://*.twitter.com/*", "https://*.x.com/*"],
+      "js": ["contentScript.js"]
+    }
+  ]
+}
