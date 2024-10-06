@@ -2,7 +2,7 @@
 
 Having fun in the group chat with a joke tweet about Leo bull posting $BIP leads to ChatGPT putting a proof of concept together.
 
-![Switch to $BIP GIF](https://github.com/TedyKGB/Just-BIP-It/blob/main/bip-dog-extension.gif "Switch to $BIP")
+![Switch to $BIP GIF](https://github.com/TedyKGB/switch-to-bip/blob/main/bip-dog-extension.gif "Switch to $BIP")
 
 ## Switch to $BIP swaps $DOG for $BIP 
 
