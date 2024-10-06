@@ -1,4 +1,4 @@
-# Just-BIP-It
+# Switch to $BIP
 
 Having fun in the group chat with a joke tweet about Leo bull posting $BIP leads to ChatGPT putting a proof of concept together.
 
